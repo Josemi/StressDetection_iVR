@@ -42,7 +42,7 @@ X = df.drop("y_experiences",axis=1)
 y = df["y_experiences"]
 
 #random seed
-random_state = np.random.RandomState(55)
+random_state = np.random.RandomState(33)
 
 #SSL models, except Co-Training
 ssl_models = {"SelfTraining(kNN)":SelfTraining(base_estimator=KNeighborsClassifier(n_neighbors=3)),
