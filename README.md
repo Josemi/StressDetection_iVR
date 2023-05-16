@@ -6,11 +6,18 @@ José Miguel Ramírez-Sanz<sup>a</sup>, Helia Marina Peña-Alonso<sup>a</sup>, A
 
 ## Abstract
 
-The use of eye-tracking in immersive Virtual Reality (iVR) is becoming an important tool for improving the learning outcomes. Nevertheless, the best Machine Learning (ML) technologies for the exploitation of eye-tracking data is yet unclear. This paper presents a complete experimentation where different ML algorithms were tested, both supervised and semi-supervised, for trying to identify the stressors/distractors present in iVR learning experiences simulating the operation of a bridge crane. Results shown that the use of semi-supervised techniques can improve the performance of the machine learning methods making possible the identification of stressful situations into simulations.
+The use of eye-tracking in immersive Virtual Reality (iVR) is becoming an important tool for improving the learning outcomes.
+Nevertheless, the best Machine Learning (ML) technologies for the exploitation of eye-tracking data is yet unclear.
+Actually, one of the main drawbacks of some ML technologies, such as classifiers, is the need of labeled dataset for their training.
+Being the process of dataset label is usually a time-consuming and expensive task.
+
+This paper presents a complete experimentation where different ML algorithms were tested, both supervised and semi-supervised, for trying to identify the stressors/distractors present in iVR learning experiences simulating the operation of a bridge crane.
+Results shown that the use of semi-supervised techniques can improve the performance of the machine learning methods making possible the identification of stressful situations into simulations.
+The use of semi-supervised learning techniques makes possible training ML algorithms without the need of great amount of labeled data which makes the data exploitation cheaper and easier.
 
 ## Keywords
 
-Semi-supervised learning · Virtual reality.
+Machine learning · Semi-supervised learning · Virtual reality · game-based learning · eye-tracking.
 
 ## Aknowlegments
 
