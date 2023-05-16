@@ -16,3 +16,8 @@ Semi-supervised learning · Virtual reality.
 
 This work was supported by the Junta de Castilla y León under project BU055P20 (JCyL/FEDER, UE), the Ministry of Science and Innovation of Spain under project PID2020-119894GB-I00, co-financed through European Union FEDER funds. This work is part of the project Humanaid (TED2021-129485B-C43) funded by MCIN/AEI/10.13039/501100011033 and the European Union “NextGenerationEU”/PRTR. We also acknowledge European Union NextGenerationEU/PRTR funds for the Margarita Salas 2022–2024 Grant awarded by Universidad de Burgos.
 
+## Cite this software as:
+
+Under review
+
+
