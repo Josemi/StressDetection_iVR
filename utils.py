@@ -93,5 +93,5 @@ def save_metrics(model, rep, kfold, lp, y_test, y_pred, file_name):
 
     with open("./Results/"+file_name,"a") as f:
         writer = csv.writer(f, delimiter=';')
-        writer.writerow([model, rep, fold, lp, acc])
+        writer.writerow([model, rep, kfold, lp, acc])
         
