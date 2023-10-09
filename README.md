@@ -18,6 +18,13 @@ This work was supported by the Junta de Castilla y León under project BU055P20 
 
 ## Cite this software as:
 
-Under review
+@inproceedings{ramirez2023detection,
+  title={Detection of Stress Stimuli in Learning Contexts of iVR Environments},
+  author={Ram{\'\i}rez-Sanz, Jos{\'e} Miguel and Pe{\~n}a-Alonso, Helia Marina and Serrano-Mamolar, Ana and Arnaiz-Gonz{\'a}lez, {\'A}lvar and Bustillo, Andr{\'e}s},
+  booktitle={International Conference on Extended Reality},
+  pages={427--440},
+  year={2023},
+  organization={Springer}
+}
 
 
